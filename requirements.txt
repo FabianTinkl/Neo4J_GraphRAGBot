@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+langchain-community==0.2.16
+neo4j==5.23.1
+jupyter==1.0.0
+notebook==7.2.1
+ipykernel==6.29.5
